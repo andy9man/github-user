@@ -1,0 +1,36 @@
+* {
+    border: 0;
+}
+button {
+    background-color: blueviolet;
+    color: chartreuse;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+}
+body, input, button {
+    font-size: 1em;
+}
+#imgGitHubImage {
+    width: 200px;
+    border-radius: 25%;
+    margin-top: 20px;
+}
+#gitHubName {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, 
+    Verdana, sans-serif;
+}
+#inputName {
+    border-bottom: 2px dashed;
+    border-radius: 20px;
+    text-align: center;
+}
